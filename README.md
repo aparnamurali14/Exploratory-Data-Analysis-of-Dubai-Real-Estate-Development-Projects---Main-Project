@@ -7,6 +7,12 @@ The dataset contains **3000+ records and 15 features**, including project status
 
 ---
 
+📂 Dataset Source
+
+Dubai Open Data Portal : https://data.dubai/en/l/46765
+
+---
+
 ## 💼 Business Problem
 
 Dubai’s real estate sector involves multiple stakeholders including developers, investors, and regulatory authorities. However, challenges such as **project delays, uneven development across areas, and lack of performance visibility** can impact decision-making.
@@ -100,11 +106,6 @@ Dubai’s real estate sector involves multiple stakeholders including developers
 - 📊 Use predictive analytics to **identify delays early**  
 - 🏦 Diversify escrow partnerships  
 - 📈 Align strategies with **market cycles**  
-
----
-📂 Dataset Source
-
-Dubai Open Data Portal : https://data.dubai/en/l/467654
 
 ---
 
